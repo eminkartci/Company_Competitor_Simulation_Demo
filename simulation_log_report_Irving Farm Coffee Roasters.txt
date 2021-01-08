@@ -1,0 +1,88 @@
+
+ COMPANY DESCRIPTION
+
+            Company Name: Irving Farm Coffee Roasters
+
+            Location:
+                - Longitude : -73.98681688095094° N
+                - Latitude  : 40.73671618830131° E
+
+            Services:
+            
+            1 - Ice Cream
+			2 - Wine
+			3 - Dinner
+			
+            
+            Average Price      : 14.71829268292683
+            Average Unit Cost  : 7.352414634146342
+
+            Sales Volume       : 820
+
+            Fixed Cost         : 219034
+
+            Tax Rate           : 0.2
+
+
+        
+----------------------------------------------------------------------------
+ COMPANY INCOME STATEMENT
+
+                    ==========  Irving Farm Coffee Roasters's MONTHLY INCOME STATEMENT  ==========
+                   +------------------------------------------------------
+                   | Unit Price    : 14.71829268292683
+                   | Unit Cost     : 7.352414634146342
+                   +------------------
+                   | Contribution Margin : 7.365878048780488
+                   | Sales Volume        : 820
+                   | Revenue             : 427568 (Monthly)
+                   +------------------
+                   | Cost of Goods Sold  : 133615 (Monthly)
+                   | Total Fixed Cost    : 219034 (Monthly)
+                   | Total Cost          : 352649
+                   +------------------
+                   | Gross Margin        : 293953
+                   | Taxes               : 58790.600000000006
+                   +------------------
+                   | NET INCOME          : 235162.4
+                   +------------------------------------------------------
+
+
+        
+----------------------------------------------------------------------------
+ TARGET CUSTOMER ANALYSIS
+
+---CUSTOMER---
+ID: 705
+Lon: 10
+Lat: 6
+Cash: 59
+Max Restaurant Range: 9975
+
+---CUSTOMER---
+ID: 9127
+Lon: 10
+Lat: 6
+Cash: 58
+Max Restaurant Range: 7869
+
+---CUSTOMER---
+ID: 3432
+Lon: 6
+Lat: 1
+Cash: 31
+Max Restaurant Range: 9322
+
+---CUSTOMER---
+ID: 4703
+Lon: 2
+Lat: 3
+Cash: 75
+Max Restaurant Range: 6572
+
+---CUSTOMER---
+ID: 6701
+Lon: 1
+Lat: 3
+Cash: 25
+Max Restaurant Range: 8039

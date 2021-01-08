@@ -1,0 +1,26 @@
+
+
+            Company Name: Coffee Project New York
+
+            Location:
+                - Longitude : -73.979387° N
+                - Latitude  : 40.687751° E
+
+            Services:
+            
+            1 - Ice Cream
+			2 - Tea
+			3 - Wine
+			
+            
+            Average Price      : 14.728048780487805
+            Average Unit Cost  : 7.311658536585365
+
+            Sales Volume       : 820
+
+            Fixed Cost         : 165427
+
+            Tax Rate           : 0.2
+
+
+        

@@ -1,0 +1,23 @@
+
+
+                    ==========  Lower East Side Coffee Shop's MONTHLY INCOME STATEMENT  ==========
+                   +------------------------------------------------------
+                   | Unit Price    : 16.131645569620254
+                   | Unit Cost     : 7.938278481012658
+                   +------------------
+                   | Contribution Margin : 8.193367088607596
+                   | Sales Volume        : 790
+                   | Revenue             : 415332 (Monthly)
+                   +------------------
+                   | Cost of Goods Sold  : 207666 (Monthly)
+                   | Total Fixed Cost    : 193711 (Monthly)
+                   | Total Cost          : 401377
+                   +------------------
+                   | Gross Margin        : 207666
+                   | Taxes               : 41533.200000000004
+                   +------------------
+                   | NET INCOME          : 166132.8
+                   +------------------------------------------------------
+
+
+        

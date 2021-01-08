@@ -1,0 +1,88 @@
+
+ COMPANY DESCRIPTION
+
+            Company Name: Lower East Side Coffee Shop
+
+            Location:
+                - Longitude : -73.98065698318827° N
+                - Latitude  : 40.73046806286133° E
+
+            Services:
+            
+            1 - Desert
+			2 - Desert
+			3 - Kebap
+			
+            
+            Average Price      : 16.131645569620254
+            Average Unit Cost  : 7.938278481012658
+
+            Sales Volume       : 790
+
+            Fixed Cost         : 193711
+
+            Tax Rate           : 0.2
+
+
+        
+----------------------------------------------------------------------------
+ COMPANY INCOME STATEMENT
+
+                    ==========  Lower East Side Coffee Shop's MONTHLY INCOME STATEMENT  ==========
+                   +------------------------------------------------------
+                   | Unit Price    : 16.131645569620254
+                   | Unit Cost     : 7.938278481012658
+                   +------------------
+                   | Contribution Margin : 8.193367088607596
+                   | Sales Volume        : 790
+                   | Revenue             : 415332 (Monthly)
+                   +------------------
+                   | Cost of Goods Sold  : 207666 (Monthly)
+                   | Total Fixed Cost    : 193711 (Monthly)
+                   | Total Cost          : 401377
+                   +------------------
+                   | Gross Margin        : 207666
+                   | Taxes               : 41533.200000000004
+                   +------------------
+                   | NET INCOME          : 166132.8
+                   +------------------------------------------------------
+
+
+        
+----------------------------------------------------------------------------
+ TARGET CUSTOMER ANALYSIS
+
+---CUSTOMER---
+ID: 6788
+Lon: 10
+Lat: 1
+Cash: 16
+Max Restaurant Range: 8144
+
+---CUSTOMER---
+ID: 3292
+Lon: 8
+Lat: 2
+Cash: 24
+Max Restaurant Range: 9921
+
+---CUSTOMER---
+ID: 9899
+Lon: 2
+Lat: 3
+Cash: 43
+Max Restaurant Range: 8942
+
+---CUSTOMER---
+ID: 8192
+Lon: 4
+Lat: 7
+Cash: 80
+Max Restaurant Range: 8914
+
+---CUSTOMER---
+ID: 4540
+Lon: 8
+Lat: 8
+Cash: 83
+Max Restaurant Range: 9660

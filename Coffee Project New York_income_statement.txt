@@ -1,0 +1,23 @@
+
+
+                    ==========  Coffee Project New York's MONTHLY INCOME STATEMENT  ==========
+                   +------------------------------------------------------
+                   | Unit Price    : 14.728048780487805
+                   | Unit Cost     : 7.311658536585365
+                   +------------------
+                   | Contribution Margin : 7.41639024390244
+                   | Sales Volume        : 820
+                   | Revenue             : 197008 (Monthly)
+                   +------------------
+                   | Cost of Goods Sold  : 86191 (Monthly)
+                   | Total Fixed Cost    : 165427 (Monthly)
+                   | Total Cost          : 251618
+                   +------------------
+                   | Gross Margin        : 110817
+                   | Taxes               : 22163.4
+                   +------------------
+                   | NET INCOME          : 88653.6
+                   +------------------------------------------------------
+
+
+        

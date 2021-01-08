@@ -1,0 +1,88 @@
+
+ COMPANY DESCRIPTION
+
+            Company Name: Coffee Project New York
+
+            Location:
+                - Longitude : -73.979387° N
+                - Latitude  : 40.687751° E
+
+            Services:
+            
+            1 - Ice Cream
+			2 - Tea
+			3 - Wine
+			
+            
+            Average Price      : 14.728048780487805
+            Average Unit Cost  : 7.311658536585365
+
+            Sales Volume       : 820
+
+            Fixed Cost         : 165427
+
+            Tax Rate           : 0.2
+
+
+        
+----------------------------------------------------------------------------
+ COMPANY INCOME STATEMENT
+
+                    ==========  Coffee Project New York's MONTHLY INCOME STATEMENT  ==========
+                   +------------------------------------------------------
+                   | Unit Price    : 14.728048780487805
+                   | Unit Cost     : 7.311658536585365
+                   +------------------
+                   | Contribution Margin : 7.41639024390244
+                   | Sales Volume        : 820
+                   | Revenue             : 197008 (Monthly)
+                   +------------------
+                   | Cost of Goods Sold  : 86191 (Monthly)
+                   | Total Fixed Cost    : 165427 (Monthly)
+                   | Total Cost          : 251618
+                   +------------------
+                   | Gross Margin        : 110817
+                   | Taxes               : 22163.4
+                   +------------------
+                   | NET INCOME          : 88653.6
+                   +------------------------------------------------------
+
+
+        
+----------------------------------------------------------------------------
+ TARGET CUSTOMER ANALYSIS
+
+---CUSTOMER---
+ID: 7996
+Lon: 8
+Lat: 9
+Cash: 72
+Max Restaurant Range: 6986
+
+---CUSTOMER---
+ID: 473
+Lon: 2
+Lat: 3
+Cash: 21
+Max Restaurant Range: 7695
+
+---CUSTOMER---
+ID: 1935
+Lon: 1
+Lat: 3
+Cash: 63
+Max Restaurant Range: 7812
+
+---CUSTOMER---
+ID: 710
+Lon: 7
+Lat: 8
+Cash: 81
+Max Restaurant Range: 9825
+
+---CUSTOMER---
+ID: 4466
+Lon: 7
+Lat: 9
+Cash: 53
+Max Restaurant Range: 8289

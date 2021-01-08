@@ -1,0 +1,23 @@
+
+
+                    ==========  Irving Farm Coffee Roasters's MONTHLY INCOME STATEMENT  ==========
+                   +------------------------------------------------------
+                   | Unit Price    : 14.71829268292683
+                   | Unit Cost     : 7.352414634146342
+                   +------------------
+                   | Contribution Margin : 7.365878048780488
+                   | Sales Volume        : 820
+                   | Revenue             : 427568 (Monthly)
+                   +------------------
+                   | Cost of Goods Sold  : 133615 (Monthly)
+                   | Total Fixed Cost    : 219034 (Monthly)
+                   | Total Cost          : 352649
+                   +------------------
+                   | Gross Margin        : 293953
+                   | Taxes               : 58790.600000000006
+                   +------------------
+                   | NET INCOME          : 235162.4
+                   +------------------------------------------------------
+
+
+        

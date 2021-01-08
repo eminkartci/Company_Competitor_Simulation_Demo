@@ -1,0 +1,88 @@
+
+ COMPANY DESCRIPTION
+
+            Company Name: Allegro Coffee Company
+
+            Location:
+                - Longitude : -73.95953° N
+                - Latitude  : 40.716159999999995° E
+
+            Services:
+            
+            1 - Tea
+			2 - Dinner
+			3 - Drink
+			
+            
+            Average Price      : 10.79625
+            Average Unit Cost  : 5.471699999999999
+
+            Sales Volume       : 800
+
+            Fixed Cost         : 297791
+
+            Tax Rate           : 0.2
+
+
+        
+----------------------------------------------------------------------------
+ COMPANY INCOME STATEMENT
+
+                    ==========  Allegro Coffee Company's MONTHLY INCOME STATEMENT  ==========
+                   +------------------------------------------------------
+                   | Unit Price    : 10.79625
+                   | Unit Cost     : 5.471699999999999
+                   +------------------
+                   | Contribution Margin : 5.324550000000001
+                   | Sales Volume        : 800
+                   | Revenue             : 193080 (Monthly)
+                   +------------------
+                   | Cost of Goods Sold  : 144810 (Monthly)
+                   | Total Fixed Cost    : 297791 (Monthly)
+                   | Total Cost          : 442601
+                   +------------------
+                   | Gross Margin        : 48270
+                   | Taxes               : 9654.0
+                   +------------------
+                   | NET INCOME          : 38616.0
+                   +------------------------------------------------------
+
+
+        
+----------------------------------------------------------------------------
+ TARGET CUSTOMER ANALYSIS
+
+---CUSTOMER---
+ID: 1074
+Lon: 10
+Lat: 6
+Cash: 63
+Max Restaurant Range: 6885
+
+---CUSTOMER---
+ID: 7498
+Lon: 8
+Lat: 3
+Cash: 71
+Max Restaurant Range: 7992
+
+---CUSTOMER---
+ID: 2732
+Lon: 10
+Lat: 1
+Cash: 94
+Max Restaurant Range: 7429
+
+---CUSTOMER---
+ID: 1281
+Lon: 7
+Lat: 3
+Cash: 20
+Max Restaurant Range: 5908
+
+---CUSTOMER---
+ID: 6712
+Lon: 4
+Lat: 6
+Cash: 94
+Max Restaurant Range: 9596

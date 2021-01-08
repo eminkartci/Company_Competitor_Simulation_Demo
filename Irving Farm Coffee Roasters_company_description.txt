@@ -1,0 +1,26 @@
+
+
+            Company Name: Irving Farm Coffee Roasters
+
+            Location:
+                - Longitude : -73.98681688095094° N
+                - Latitude  : 40.73671618830131° E
+
+            Services:
+            
+            1 - Ice Cream
+			2 - Wine
+			3 - Dinner
+			
+            
+            Average Price      : 14.71829268292683
+            Average Unit Cost  : 7.352414634146342
+
+            Sales Volume       : 820
+
+            Fixed Cost         : 219034
+
+            Tax Rate           : 0.2
+
+
+        

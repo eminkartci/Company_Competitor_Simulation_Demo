@@ -1,0 +1,26 @@
+
+
+            Company Name: Lower East Side Coffee Shop
+
+            Location:
+                - Longitude : -73.98065698318827° N
+                - Latitude  : 40.73046806286133° E
+
+            Services:
+            
+            1 - Desert
+			2 - Desert
+			3 - Kebap
+			
+            
+            Average Price      : 16.131645569620254
+            Average Unit Cost  : 7.938278481012658
+
+            Sales Volume       : 790
+
+            Fixed Cost         : 193711
+
+            Tax Rate           : 0.2
+
+
+        

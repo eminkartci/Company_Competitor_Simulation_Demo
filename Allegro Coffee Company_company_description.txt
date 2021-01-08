@@ -1,0 +1,26 @@
+
+
+            Company Name: Allegro Coffee Company
+
+            Location:
+                - Longitude : -73.95953° N
+                - Latitude  : 40.716159999999995° E
+
+            Services:
+            
+            1 - Tea
+			2 - Dinner
+			3 - Drink
+			
+            
+            Average Price      : 10.79625
+            Average Unit Cost  : 5.471699999999999
+
+            Sales Volume       : 800
+
+            Fixed Cost         : 297791
+
+            Tax Rate           : 0.2
+
+
+        

@@ -1,0 +1,23 @@
+
+
+                    ==========  Allegro Coffee Company's MONTHLY INCOME STATEMENT  ==========
+                   +------------------------------------------------------
+                   | Unit Price    : 10.79625
+                   | Unit Cost     : 5.471699999999999
+                   +------------------
+                   | Contribution Margin : 5.324550000000001
+                   | Sales Volume        : 800
+                   | Revenue             : 193080 (Monthly)
+                   +------------------
+                   | Cost of Goods Sold  : 144810 (Monthly)
+                   | Total Fixed Cost    : 297791 (Monthly)
+                   | Total Cost          : 442601
+                   +------------------
+                   | Gross Margin        : 48270
+                   | Taxes               : 9654.0
+                   +------------------
+                   | NET INCOME          : 38616.0
+                   +------------------------------------------------------
+
+
+        

@@ -1,0 +1,17 @@
+
+
+ SIMULATION SUMMARY REPORT 
+
+
+Company: Main Company 	PROFIT: 12362.95 	Avg Price: 26.09	 Avg Cost: 13.02	 Contribution Margin: 13.07	 Sales Vol: 749
+----------------------------------------------------------------------------
+Company: Allegro Coffee Company 	PROFIT: 38616.00 	Avg Price: 10.80	 Avg Cost: 5.47	 Contribution Margin: 5.32	 Sales Vol: 800
+----------------------------------------------------------------------------
+Company: Lower East Side Coffee Shop 	PROFIT: 166132.80 	Avg Price: 16.13	 Avg Cost: 7.94	 Contribution Margin: 8.19	 Sales Vol: 790
+----------------------------------------------------------------------------
+Company: Coffee Project New York 	PROFIT: 88653.60 	Avg Price: 14.73	 Avg Cost: 7.31	 Contribution Margin: 7.42	 Sales Vol: 820
+----------------------------------------------------------------------------
+Company: Irving Farm Coffee Roasters 	PROFIT: 235162.40 	Avg Price: 14.72	 Avg Cost: 7.35	 Contribution Margin: 7.37	 Sales Vol: 820
+----------------------------------------------------------------------------
+
+All Rights Reserved @2020

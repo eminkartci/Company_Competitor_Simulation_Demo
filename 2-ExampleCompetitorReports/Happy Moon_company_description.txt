@@ -1,0 +1,25 @@
+
+
+            Company Name: Happy Moon
+
+            Location:
+                - Longitude : 25° N
+                - Latitude  : 63° E
+
+            Services:
+            
+            1 - Desert
+			2 - Salad
+			
+            
+            Average Price      : 23.551939924906133
+            Average Unit Cost  : 11.87727158948686
+
+            Sales Volume       : 799
+
+            Fixed Cost         : 21333
+
+            Tax Rate           : 0.2
+
+
+        

@@ -1,0 +1,25 @@
+
+
+            Company Name: Fell Falafel
+
+            Location:
+                - Longitude : 23° N
+                - Latitude  : 63° E
+
+            Services:
+            
+            1 - Dinner
+			2 - Salad
+			
+            
+            Average Price      : 14.790722761596548
+            Average Unit Cost  : 7.365555555555556
+
+            Sales Volume       : 927
+
+            Fixed Cost         : 23633
+
+            Tax Rate           : 0.2
+
+
+        

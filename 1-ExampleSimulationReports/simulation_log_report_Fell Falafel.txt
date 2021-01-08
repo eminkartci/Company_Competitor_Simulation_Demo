@@ -1,0 +1,87 @@
+
+ COMPANY DESCRIPTION
+
+            Company Name: Fell Falafel
+
+            Location:
+                - Longitude : 23° N
+                - Latitude  : 63° E
+
+            Services:
+            
+            1 - Dinner
+			2 - Salad
+			
+            
+            Average Price      : 14.790722761596548
+            Average Unit Cost  : 7.365555555555556
+
+            Sales Volume       : 927
+
+            Fixed Cost         : 23633
+
+            Tax Rate           : 0.2
+
+
+        
+----------------------------------------------------------------------------
+ COMPANY INCOME STATEMENT
+
+                    ==========  Fell Falafel's MONTHLY INCOME STATEMENT  ==========
+                   +------------------------------------------------------
+                   | Unit Price    : 14.790722761596548
+                   | Unit Cost     : 7.365555555555556
+                   +------------------
+                   | Contribution Margin : 7.425167206040992
+                   | Sales Volume        : 927
+                   | Revenue             : 392528 (Monthly)
+                   +------------------
+                   | Cost of Goods Sold  : 318929 (Monthly)
+                   | Total Fixed Cost    : 23633 (Monthly)
+                   | Total Cost          : 342562
+                   +------------------
+                   | Gross Margin        : 73599
+                   | Taxes               : 14719.800000000001
+                   +------------------
+                   | NET INCOME          : 58879.2
+                   +------------------------------------------------------
+
+
+        
+----------------------------------------------------------------------------
+ TARGET CUSTOMER ANALYSIS
+
+---CUSTOMER---
+ID: 294
+Lon: 1
+Lat: 10
+Cash: 39
+Max Restaurant Range: 9024
+
+---CUSTOMER---
+ID: 4378
+Lon: 1
+Lat: 8
+Cash: 78
+Max Restaurant Range: 8180
+
+---CUSTOMER---
+ID: 7211
+Lon: 8
+Lat: 9
+Cash: 67
+Max Restaurant Range: 6180
+
+---CUSTOMER---
+ID: 7635
+Lon: 6
+Lat: 3
+Cash: 86
+Max Restaurant Range: 9655
+
+---CUSTOMER---
+ID: 2897
+Lon: 8
+Lat: 2
+Cash: 18
+Max Restaurant Range: 7871

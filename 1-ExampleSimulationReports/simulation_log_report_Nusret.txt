@@ -1,0 +1,87 @@
+
+ COMPANY DESCRIPTION
+
+            Company Name: Nusret
+
+            Location:
+                - Longitude : 22° N
+                - Latitude  : 61° E
+
+            Services:
+            
+            1 - Tea
+			2 - Dring
+			
+            
+            Average Price      : 40.76988636363637
+            Average Unit Cost  : 20.148664772727273
+
+            Sales Volume       : 704
+
+            Fixed Cost         : 23233
+
+            Tax Rate           : 0.2
+
+
+        
+----------------------------------------------------------------------------
+ COMPANY INCOME STATEMENT
+
+                    ==========  Nusret's MONTHLY INCOME STATEMENT  ==========
+                   +------------------------------------------------------
+                   | Unit Price    : 40.76988636363637
+                   | Unit Cost     : 20.148664772727273
+                   +------------------
+                   | Contribution Margin : 20.621221590909094
+                   | Sales Volume        : 704
+                   | Revenue             : 3566518 (Monthly)
+                   +------------------
+                   | Cost of Goods Sold  : 2015858 (Monthly)
+                   | Total Fixed Cost    : 23233 (Monthly)
+                   | Total Cost          : 2039091
+                   +------------------
+                   | Gross Margin        : 1550660
+                   | Taxes               : 310132.0
+                   +------------------
+                   | NET INCOME          : 1240528.0
+                   +------------------------------------------------------
+
+
+        
+----------------------------------------------------------------------------
+ TARGET CUSTOMER ANALYSIS
+
+---CUSTOMER---
+ID: 5234
+Lon: 2
+Lat: 4
+Cash: 62
+Max Restaurant Range: 5668
+
+---CUSTOMER---
+ID: 4054
+Lon: 10
+Lat: 5
+Cash: 99
+Max Restaurant Range: 9487
+
+---CUSTOMER---
+ID: 7234
+Lon: 10
+Lat: 10
+Cash: 85
+Max Restaurant Range: 5770
+
+---CUSTOMER---
+ID: 3348
+Lon: 4
+Lat: 10
+Cash: 65
+Max Restaurant Range: 8786
+
+---CUSTOMER---
+ID: 9657
+Lon: 4
+Lat: 5
+Cash: 63
+Max Restaurant Range: 7007

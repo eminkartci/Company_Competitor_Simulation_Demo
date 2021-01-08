@@ -1,0 +1,23 @@
+
+
+                    ==========  Fell Falafel's MONTHLY INCOME STATEMENT  ==========
+                   +------------------------------------------------------
+                   | Unit Price    : 14.790722761596548
+                   | Unit Cost     : 7.365555555555556
+                   +------------------
+                   | Contribution Margin : 7.425167206040992
+                   | Sales Volume        : 927
+                   | Revenue             : 392528 (Monthly)
+                   +------------------
+                   | Cost of Goods Sold  : 318929 (Monthly)
+                   | Total Fixed Cost    : 23633 (Monthly)
+                   | Total Cost          : 342562
+                   +------------------
+                   | Gross Margin        : 73599
+                   | Taxes               : 14719.800000000001
+                   +------------------
+                   | NET INCOME          : 58879.2
+                   +------------------------------------------------------
+
+
+        

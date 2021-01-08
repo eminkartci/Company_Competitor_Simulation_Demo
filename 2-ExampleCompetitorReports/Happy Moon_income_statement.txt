@@ -1,0 +1,23 @@
+
+
+                    ==========  Happy Moon's MONTHLY INCOME STATEMENT  ==========
+                   +------------------------------------------------------
+                   | Unit Price    : 23.551939924906133
+                   | Unit Cost     : 11.87727158948686
+                   +------------------
+                   | Contribution Margin : 11.674668335419273
+                   | Sales Volume        : 799
+                   | Revenue             : 1157858 (Monthly)
+                   +------------------
+                   | Cost of Goods Sold  : 489863 (Monthly)
+                   | Total Fixed Cost    : 21333 (Monthly)
+                   | Total Cost          : 511196
+                   +------------------
+                   | Gross Margin        : 667995
+                   | Taxes               : 133599.0
+                   +------------------
+                   | NET INCOME          : 534396.0
+                   +------------------------------------------------------
+
+
+        

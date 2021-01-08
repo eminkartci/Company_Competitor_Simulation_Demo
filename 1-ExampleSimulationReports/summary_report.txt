@@ -1,0 +1,17 @@
+
+
+ SIMULATION SUMMARY REPORT 
+
+
+Company: Main Company 	PROFIT: 31521.00 	Avg Price: 21.31	 Avg Cost: 10.53	 Contribution Margin: 10.78	 Sales Vol: 899
+----------------------------------------------------------------------------
+Company: Happy Moon 	PROFIT: 534396.00 	Avg Price: 23.55	 Avg Cost: 11.88	 Contribution Margin: 11.67	 Sales Vol: 799
+----------------------------------------------------------------------------
+Company: Fell Falafel 	PROFIT: 58879.20 	Avg Price: 14.79	 Avg Cost: 7.37	 Contribution Margin: 7.43	 Sales Vol: 927
+----------------------------------------------------------------------------
+Company: Kartci Rest 	PROFIT: 1393912.80 	Avg Price: 32.35	 Avg Cost: 16.12	 Contribution Margin: 16.24	 Sales Vol: 1106
+----------------------------------------------------------------------------
+Company: Nusret 	PROFIT: 1240528.00 	Avg Price: 40.77	 Avg Cost: 20.15	 Contribution Margin: 20.62	 Sales Vol: 704
+----------------------------------------------------------------------------
+
+All Rights Reserved @2020

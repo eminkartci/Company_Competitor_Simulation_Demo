@@ -1,0 +1,23 @@
+
+
+                    ==========  Kartci Rest's MONTHLY INCOME STATEMENT  ==========
+                   +------------------------------------------------------
+                   | Unit Price    : 32.35081374321881
+                   | Unit Cost     : 16.11532549728752
+                   +------------------
+                   | Contribution Margin : 16.235488245931286
+                   | Sales Volume        : 1106
+                   | Revenue             : 2323188 (Monthly)
+                   +------------------
+                   | Cost of Goods Sold  : 580797 (Monthly)
+                   | Total Fixed Cost    : 23343 (Monthly)
+                   | Total Cost          : 604140
+                   +------------------
+                   | Gross Margin        : 1742391
+                   | Taxes               : 348478.2
+                   +------------------
+                   | NET INCOME          : 1393912.8
+                   +------------------------------------------------------
+
+
+        

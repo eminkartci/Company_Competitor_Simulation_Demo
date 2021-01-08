@@ -1,0 +1,87 @@
+
+ COMPANY DESCRIPTION
+
+            Company Name: Happy Moon
+
+            Location:
+                - Longitude : 25° N
+                - Latitude  : 63° E
+
+            Services:
+            
+            1 - Desert
+			2 - Salad
+			
+            
+            Average Price      : 23.551939924906133
+            Average Unit Cost  : 11.87727158948686
+
+            Sales Volume       : 799
+
+            Fixed Cost         : 21333
+
+            Tax Rate           : 0.2
+
+
+        
+----------------------------------------------------------------------------
+ COMPANY INCOME STATEMENT
+
+                    ==========  Happy Moon's MONTHLY INCOME STATEMENT  ==========
+                   +------------------------------------------------------
+                   | Unit Price    : 23.551939924906133
+                   | Unit Cost     : 11.87727158948686
+                   +------------------
+                   | Contribution Margin : 11.674668335419273
+                   | Sales Volume        : 799
+                   | Revenue             : 1157858 (Monthly)
+                   +------------------
+                   | Cost of Goods Sold  : 489863 (Monthly)
+                   | Total Fixed Cost    : 21333 (Monthly)
+                   | Total Cost          : 511196
+                   +------------------
+                   | Gross Margin        : 667995
+                   | Taxes               : 133599.0
+                   +------------------
+                   | NET INCOME          : 534396.0
+                   +------------------------------------------------------
+
+
+        
+----------------------------------------------------------------------------
+ TARGET CUSTOMER ANALYSIS
+
+---CUSTOMER---
+ID: 4843
+Lon: 10
+Lat: 2
+Cash: 88
+Max Restaurant Range: 7497
+
+---CUSTOMER---
+ID: 1118
+Lon: 2
+Lat: 3
+Cash: 27
+Max Restaurant Range: 7966
+
+---CUSTOMER---
+ID: 2221
+Lon: 2
+Lat: 4
+Cash: 84
+Max Restaurant Range: 8777
+
+---CUSTOMER---
+ID: 5660
+Lon: 10
+Lat: 8
+Cash: 22
+Max Restaurant Range: 8634
+
+---CUSTOMER---
+ID: 5389
+Lon: 3
+Lat: 3
+Cash: 85
+Max Restaurant Range: 6955

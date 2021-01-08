@@ -1,0 +1,25 @@
+
+
+            Company Name: Kartci Rest
+
+            Location:
+                - Longitude : 21° N
+                - Latitude  : 65° E
+
+            Services:
+            
+            1 - Desert
+			2 - Breakfast
+			
+            
+            Average Price      : 32.35081374321881
+            Average Unit Cost  : 16.11532549728752
+
+            Sales Volume       : 1106
+
+            Fixed Cost         : 23343
+
+            Tax Rate           : 0.2
+
+
+        

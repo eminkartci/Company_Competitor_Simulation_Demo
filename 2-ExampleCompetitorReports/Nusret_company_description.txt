@@ -1,0 +1,25 @@
+
+
+            Company Name: Nusret
+
+            Location:
+                - Longitude : 22° N
+                - Latitude  : 61° E
+
+            Services:
+            
+            1 - Tea
+			2 - Dring
+			
+            
+            Average Price      : 40.76988636363637
+            Average Unit Cost  : 20.148664772727273
+
+            Sales Volume       : 704
+
+            Fixed Cost         : 23233
+
+            Tax Rate           : 0.2
+
+
+        

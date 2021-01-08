@@ -1,0 +1,23 @@
+
+
+                    ==========  Nusret's MONTHLY INCOME STATEMENT  ==========
+                   +------------------------------------------------------
+                   | Unit Price    : 40.76988636363637
+                   | Unit Cost     : 20.148664772727273
+                   +------------------
+                   | Contribution Margin : 20.621221590909094
+                   | Sales Volume        : 704
+                   | Revenue             : 3566518 (Monthly)
+                   +------------------
+                   | Cost of Goods Sold  : 2015858 (Monthly)
+                   | Total Fixed Cost    : 23233 (Monthly)
+                   | Total Cost          : 2039091
+                   +------------------
+                   | Gross Margin        : 1550660
+                   | Taxes               : 310132.0
+                   +------------------
+                   | NET INCOME          : 1240528.0
+                   +------------------------------------------------------
+
+
+        

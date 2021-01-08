@@ -1,0 +1,87 @@
+
+ COMPANY DESCRIPTION
+
+            Company Name: Main Company
+
+            Location:
+                - Longitude : 12° N
+                - Latitude  : 17° E
+
+            Services:
+            
+            1 - salad
+			2 - dessert
+			
+            
+            Average Price      : 21.309232480533925
+            Average Unit Cost  : 10.527908787541714
+
+            Sales Volume       : 899
+
+            Fixed Cost         : 57589
+
+            Tax Rate           : 0.0019
+
+
+        
+----------------------------------------------------------------------------
+ COMPANY INCOME STATEMENT
+
+                    ==========  Main Company's MONTHLY INCOME STATEMENT  ==========
+                   +------------------------------------------------------
+                   | Unit Price    : 21.309232480533925
+                   | Unit Cost     : 10.527908787541714
+                   +------------------
+                   | Contribution Margin : 10.781323692992212
+                   | Sales Volume        : 899
+                   | Revenue             : 68904 (Monthly)
+                   +------------------
+                   | Cost of Goods Sold  : 37323 (Monthly)
+                   | Total Fixed Cost    : 57589 (Monthly)
+                   | Total Cost          : 94912
+                   +------------------
+                   | Gross Margin        : 31581
+                   | Taxes               : 60.0039
+                   +------------------
+                   | NET INCOME          : 31520.9961
+                   +------------------------------------------------------
+
+
+        
+----------------------------------------------------------------------------
+ TARGET CUSTOMER ANALYSIS
+
+---CUSTOMER---
+ID: 2833
+Lon: 2
+Lat: 5
+Cash: 42
+Max Restaurant Range: 3223
+
+---CUSTOMER---
+ID: 5096
+Lon: 8
+Lat: 5
+Cash: 100
+Max Restaurant Range: 1618
+
+---CUSTOMER---
+ID: 7152
+Lon: 6
+Lat: 10
+Cash: 49
+Max Restaurant Range: 8216
+
+---CUSTOMER---
+ID: 291
+Lon: 6
+Lat: 4
+Cash: 89
+Max Restaurant Range: 4279
+
+---CUSTOMER---
+ID: 7361
+Lon: 3
+Lat: 5
+Cash: 32
+Max Restaurant Range: 3818

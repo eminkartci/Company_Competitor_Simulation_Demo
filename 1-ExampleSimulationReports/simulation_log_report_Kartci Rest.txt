@@ -1,0 +1,87 @@
+
+ COMPANY DESCRIPTION
+
+            Company Name: Kartci Rest
+
+            Location:
+                - Longitude : 21° N
+                - Latitude  : 65° E
+
+            Services:
+            
+            1 - Desert
+			2 - Breakfast
+			
+            
+            Average Price      : 32.35081374321881
+            Average Unit Cost  : 16.11532549728752
+
+            Sales Volume       : 1106
+
+            Fixed Cost         : 23343
+
+            Tax Rate           : 0.2
+
+
+        
+----------------------------------------------------------------------------
+ COMPANY INCOME STATEMENT
+
+                    ==========  Kartci Rest's MONTHLY INCOME STATEMENT  ==========
+                   +------------------------------------------------------
+                   | Unit Price    : 32.35081374321881
+                   | Unit Cost     : 16.11532549728752
+                   +------------------
+                   | Contribution Margin : 16.235488245931286
+                   | Sales Volume        : 1106
+                   | Revenue             : 2323188 (Monthly)
+                   +------------------
+                   | Cost of Goods Sold  : 580797 (Monthly)
+                   | Total Fixed Cost    : 23343 (Monthly)
+                   | Total Cost          : 604140
+                   +------------------
+                   | Gross Margin        : 1742391
+                   | Taxes               : 348478.2
+                   +------------------
+                   | NET INCOME          : 1393912.8
+                   +------------------------------------------------------
+
+
+        
+----------------------------------------------------------------------------
+ TARGET CUSTOMER ANALYSIS
+
+---CUSTOMER---
+ID: 7138
+Lon: 1
+Lat: 2
+Cash: 73
+Max Restaurant Range: 4781
+
+---CUSTOMER---
+ID: 3868
+Lon: 4
+Lat: 1
+Cash: 65
+Max Restaurant Range: 9690
+
+---CUSTOMER---
+ID: 995
+Lon: 10
+Lat: 1
+Cash: 45
+Max Restaurant Range: 5887
+
+---CUSTOMER---
+ID: 6836
+Lon: 9
+Lat: 2
+Cash: 97
+Max Restaurant Range: 3512
+
+---CUSTOMER---
+ID: 8507
+Lon: 8
+Lat: 7
+Cash: 31
+Max Restaurant Range: 9699

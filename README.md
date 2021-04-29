@@ -14,17 +14,17 @@
 
 | Emin Kartci  | Ozan Yurtsever   | Muhammed A. Kumaşoğlu  | Yamaç D. Yılmaz  | Egemen İşcan |
 |---|---|---|---|---|
-|Company Object          | Mapping by using Folium            | Calculation of the distances | README File | Searching Foursquare API |
-|Customer Object         | Restricting the user about location                      | Sorting the companies wrt distances | Company Object Financial Calculations | Getting Data from Foursquare |
-|Financial Calculations  | Company Input GUI                         | Filtering & Converting Foursquare Output to our objects  | Price vs Cost Plot | Searching Preminum Foursquare API | 
-|Financial Plots         | Foursquare Data Request                       | Mapping the companies | Company Comparison Plot | Converting data to csv file |
-|Simulation Conditions         | Presenting outputs to the MAP                 | Financial Reports & integrating with mapping | Motivated the team | Reading & Preparing Data |
-|Company Inputs GUI         | Customer Class                    | - | Searching Foursquare API Output | Trade Simulation |
-|PV & FV Analysis - GUI         | -                | - | - | Integrating the codes |
-|ReadME         |-                               | - | - | - |
-|Creating Support&Decision Reports         | -     | - | - |- |
-|Saving Support&Decision Reports         | -       | - | - |- |
-|Demonstrating Sample Case        | -              | - | - |- |
+| [Company Object](https://github.com/eminkartci/Company_Competitor_Simulation_Demo/blob/main/Company.py)          | Mapping by using Folium            | Calculation of the distances | README File | Searching Foursquare API |
+| [Customer Object](https://github.com/eminkartci/Company_Competitor_Simulation_Demo/blob/main/Customer.py)         | Restricting the user about location                      | Sorting the companies wrt distances | Company Object Financial Calculations | Getting Data from Foursquare |
+| [Financial Calculations](https://github.com/eminkartci/Company_Competitor_Simulation_Demo/blob/main/SimulationLibrary.py)  | Company Input GUI                         | Filtering & Converting Foursquare Output to our objects  | Price vs Cost Plot | Searching Preminum Foursquare API | 
+| [Financial Plots](https://github.com/eminkartci/Company_Competitor_Simulation_Demo/blob/main/SimulationLibrary.py)         | Foursquare Data Request                       | Mapping the companies | Company Comparison Plot | Converting data to csv file |
+| [Simulation Conditions](https://github.com/eminkartci/Company_Competitor_Simulation_Demo/blob/main/SimulationLibrary.py)         | Presenting outputs to the MAP                 | Financial Reports & integrating with mapping | Motivated the team | Reading & Preparing Data |
+| [Company Inputs GUI](https://github.com/eminkartci/Company_Competitor_Simulation_Demo/blob/main/EE393_Semester_Project_Map_SimpleGUI_CompanyObject_Version3.ipynb)         | Customer Class                    | - | Searching Foursquare API Output | Trade Simulation |
+| [PV & FV Analysis - GUI](https://github.com/eminkartci/Company_Competitor_Simulation_Demo/blob/main/EE393_Semester_Project_Map_SimpleGUI_CompanyObject_Version3.ipynb)         | -                | - | - | Integrating the codes |
+| [ReadME](https://github.com/eminkartci/Company_Competitor_Simulation_Demo#readme)         |-                               | - | - | - |
+| [Creating Support&Decision Reports](https://github.com/eminkartci/Company_Competitor_Simulation_Demo/blob/main/summary_report.txt)         | -     | - | - |- |
+|[Saving Support&Decision Reports](https://github.com/eminkartci/Company_Competitor_Simulation_Demo/tree/main/1-ExampleSimulationReports)         | -       | - | - |- |
+| [Demonstrating Sample Case](https://github.com/eminkartci/Company_Competitor_Simulation_Demo/blob/main/EE393_Semester_Project_Map_SimpleGUI_CompanyObject_Version3.2.ipynb)        | -              | - | - |- |
 
 In this project we have tried to demonstrate our **data analysis, stochastic simulation and map creation skills** with Python. In order to achieve this task, we obtained coffee shop data from the **Foursquare Places API**. Then we created various hypotethical scenarios to create some business problems and solve them.
 

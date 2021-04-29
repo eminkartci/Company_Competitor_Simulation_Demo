@@ -1,11 +1,11 @@
 # Data-Science-with-Foursquare-API-
-Project for EE393 Python for Engineers
+[Project for EE393 Python for Engineers](https://github.com/eminkartci/Company_Competitor_Simulation_Demo/blob/main/EE393_Semester_Project_Map_SimpleGUI_CompanyObject_Version3.ipynb)
 
 ### Contributers:
 
 | Name  | Surname   | Student No  | Department  |
 |---|---|---|---|
-| Emin  | Kartci  | S014877  | EE Engineering  |
+| [Emin](https://www.eminkartci.com)  | Kartci  | S014877  | EE Engineering  |
 |Ozan | Yurtsever | S015164 | EE Engineering |
 |Yamaç Demirkan| Yılmaz |S018368 |Computer Science|
 |Muhammed Ali |Kumaşoğlu| S018505|EE Engineering |

@@ -1,5 +1,5 @@
 # Data-Science-with-Foursquare-API-
-[Project for EE393 Python for Engineers](https://github.com/eminkartci/Company_Competitor_Simulation_Demo/blob/main/EE393_Semester_Project_Map_SimpleGUI_CompanyObject_Version3.ipynb)
+[Project for EE393 Python for Engineers](https://github.com/eminkartci/Company_Competitor_Simulation_Demo/blob/main/EE393_Semester_Project_Map_SimpleGUI_CompanyObject_Version3.2.ipynb)
 
 ### Contributers:
 

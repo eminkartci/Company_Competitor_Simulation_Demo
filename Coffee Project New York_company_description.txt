@@ -9,16 +9,16 @@
             Services:
             
             1 - Ice Cream
-			2 - Tea
-			3 - Wine
+			2 - Dinner
+			3 - Drink
 			
             
-            Average Price      : 14.728048780487805
-            Average Unit Cost  : 7.311658536585365
+            Average Price      : 14.725860155382907
+            Average Unit Cost  : 7.325294117647059
 
-            Sales Volume       : 820
+            Sales Volume       : 901
 
-            Fixed Cost         : 165427
+            Fixed Cost         : 271520
 
             Tax Rate           : 0.2
 

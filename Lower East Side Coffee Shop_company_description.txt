@@ -8,17 +8,17 @@
 
             Services:
             
-            1 - Desert
-			2 - Desert
-			3 - Kebap
+            1 - Kebap
+			2 - Ice Cream
+			3 - Salad
 			
             
-            Average Price      : 16.131645569620254
-            Average Unit Cost  : 7.938278481012658
+            Average Price      : 13.780545670225386
+            Average Unit Cost  : 6.792645314353499
 
-            Sales Volume       : 790
+            Sales Volume       : 843
 
-            Fixed Cost         : 193711
+            Fixed Cost         : 235923
 
             Tax Rate           : 0.2
 

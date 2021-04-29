@@ -8,17 +8,17 @@
 
             Services:
             
-            1 - Ice Cream
+            1 - Drink
 			2 - Wine
-			3 - Dinner
+			3 - Kebap
 			
             
-            Average Price      : 14.71829268292683
-            Average Unit Cost  : 7.352414634146342
+            Average Price      : 9.948658109684947
+            Average Unit Cost  : 5.075974329054843
 
-            Sales Volume       : 820
+            Sales Volume       : 857
 
-            Fixed Cost         : 219034
+            Fixed Cost         : 298260
 
             Tax Rate           : 0.2
 

@@ -5,7 +5,7 @@ public class HourlyEmployee extends Employee{
     private double rate;
 
     // Constructor
-    public HourlyEmployee(String name, String surname, int employeeID,int hour,double rate) {
+    public HourlyEmployee(String name, String surname, int employeeID,int hours,double rate) {
         super(name, surname, employeeID);
         this.hours = hours;
         this.rate = rate;
@@ -30,5 +30,5 @@ public class HourlyEmployee extends Employee{
             + "Hourly Wage      : " + this.rate ;
     }
 
-    
+
 }

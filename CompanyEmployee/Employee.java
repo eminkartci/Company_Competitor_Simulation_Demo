@@ -1,5 +1,5 @@
 
-public class Employee{
+public abstract class Employee{
 
     // Attributes
     private String name,surname;
@@ -13,7 +13,7 @@ public class Employee{
     }
 
     // GETTER SETTERS
-    
+
     public String getName(){
         return this.name;
     }
@@ -33,6 +33,14 @@ public class Employee{
         this.surname = surname;
     }
 
-    
+    // To string
+    public String toString(){
+        return "\n--- Employee "    + this.employeeID +" ---\n" 
+                +"| Name        : " + this.name       +"\n" 
+                +"| Surname     : " + this.surname;
+    }
+
+    // So that every employee subclass need yo overwrite this method
+    public abstract double earnings();
     
 }

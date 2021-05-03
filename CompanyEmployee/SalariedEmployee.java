@@ -1,4 +1,4 @@
-public class SalariedEmployee extends Employee{
+public final class SalariedEmployee extends Employee{
 
     // New Attributes
     private double monthlySalary;
